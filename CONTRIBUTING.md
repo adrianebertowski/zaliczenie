@@ -16,8 +16,9 @@ Commity powinny jasno opisywać zmiany.
 
 Przykłady:
 
-Dodano zdjecie lemura
-Dodano sekcje lemur
+- Dodano zdjecie lemura
+
+- Dodano sekcje lemur
 
 ## Pull Request
 
